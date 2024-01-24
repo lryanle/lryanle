@@ -1,15 +1,17 @@
-<h1 align="center" style="font-size: 3rem;">
-  Hi, I'm Ryan Lahlou 🤠
-</h1>
+<span style="display: flex; justify-content: center; align-items: center;" align="center">
+  <img title="Hi, I'm Ryan Lahlou — an aspiring software engineer" alt="Hi, I'm Ryan Lahlou — an aspiring software engineer" style="width: 60rem" src="images/banner.png" />
+</span>
+<br>
+<hr>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/lryanle/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.ryanlahlou.com" title="Personal Website"><img width="22" src="images/website.jpeg"> Personal Website</a></code>
   <code><a href="mailto:contact@ryanlahlou.com" title="Email"><img width="22" src="images/email.png"> Email Me</a></code>
 </h5>
-<br>
+
 <p align="center">
-  Aspiring Software Engineer & Undergraduate Researcher
+  👨‍💻 Aspiring Software Engineer & 🧑‍🔬 Undergraduate Researcher
   <br>
   🇻🇳 Vietnamese / 🇲🇦 Moroccan
   <br>
