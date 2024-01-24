@@ -15,7 +15,7 @@
   <br>
   🇻🇳 Vietnamese / 🇲🇦 Moroccan
   <br>
-  ✈️ OKC -> DFW
+  OKC ✈️ DFW
 </p>
 
 <hr>
