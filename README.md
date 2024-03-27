@@ -213,9 +213,7 @@
   <img style="background: #30363C; padding: .25rem; border-radius: 25%" title="webpack" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
   <img style="background: #30363C; padding: .25rem; border-radius: 25%" title="xcode" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> -->
 </p>
-<br>
 <hr>
-<br>
 
 <p align=center>
   <div align=center style="display: flex; justify-content: center; align-items: stretch; gap: 2rem">
