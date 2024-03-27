@@ -18,23 +18,6 @@
   OKC ✈️ DFW
 </p>
 
-<p align="center">
-
-<p align=center>
-  <div align=center style="display: flex; justify-content: center; align-items: stretch; gap: 2rem">
-    <img align="right" style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=lryanle&show_icons=true&theme=vue-dark&border_color=61dafb&hide_border=true" />
-      <img align="left" style="width: 45%" src="https://streak-stats.demolab.com/?user=lryanle&theme=vue-dark&border=61dafb&hide_border=true&mode=weekly" alt="lryanle" />
-  </div>
-</p>
-
-<p align=center style="display: flex; justify-content: center; align-items: stretch; gap: 2rem"><br><br></p>
-<br>
-<p align=center style="display: flex; justify-content: center; align-items: stretch; gap: 2rem"><br><br></p>
-<br>
-<p align=center style="display: flex; justify-content: center; align-items: stretch; gap: 2rem"><br><br></p>
-<br>
-<p align=center style="display: flex; justify-content: center; align-items: stretch; gap: 2rem"><br><br></p>
-<br>
 
 ## Frameworks, Libraries, and Languages
 ### Javascript
@@ -230,4 +213,13 @@
   <img style="background: #30363C; padding: .25rem; border-radius: 25%" title="webpack" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
   <img style="background: #30363C; padding: .25rem; border-radius: 25%" title="xcode" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> -->
 </p>
+<br>
 <hr>
+<br>
+
+<p align=center>
+  <div align=center style="display: flex; justify-content: center; align-items: stretch; gap: 2rem">
+    <img align="right" style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=lryanle&show_icons=true&theme=vue-dark&border_color=61dafb&hide_border=true" />
+      <img align="left" style="width: 45%" src="https://streak-stats.demolab.com/?user=lryanle&theme=vue-dark&border=61dafb&hide_border=true&mode=weekly" alt="lryanle" />
+  </div>
+</p>
