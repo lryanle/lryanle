@@ -26,6 +26,9 @@
       <img align="left" style="width: 45%" src="https://streak-stats.demolab.com/?user=lryanle&theme=vue-dark&border=61dafb&hide_border=true&mode=weekly" alt="lryanle" />
   </div>
 </p>
+
+<br>
+
 <br>
 
 ## Frameworks, Libraries, and Languages
