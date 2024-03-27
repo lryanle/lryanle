@@ -31,6 +31,8 @@
 
 <br>
 
+#### 
+
 ## Frameworks, Libraries, and Languages
 ### Javascript
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -225,6 +227,4 @@
   <img style="background: #30363C; padding: .25rem; border-radius: 25%" title="webpack" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
   <img style="background: #30363C; padding: .25rem; border-radius: 25%" title="xcode" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> -->
 </p>
-<br>
 <hr>
-<br>
