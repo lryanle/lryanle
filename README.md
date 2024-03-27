@@ -27,11 +27,8 @@
   </div>
 </p>
 
+<p align=center style="display: flex; justify-content: center; align-items: stretch; gap: 2rem"><br></p>
 <br>
-
-<br>
-
-#### 
 
 ## Frameworks, Libraries, and Languages
 ### Javascript
