@@ -27,7 +27,13 @@
   </div>
 </p>
 
-<p align=center style="display: flex; justify-content: center; align-items: stretch; gap: 2rem"><br></p>
+<p align=center style="display: flex; justify-content: center; align-items: stretch; gap: 2rem"><br><br></p>
+<br>
+<p align=center style="display: flex; justify-content: center; align-items: stretch; gap: 2rem"><br><br></p>
+<br>
+<p align=center style="display: flex; justify-content: center; align-items: stretch; gap: 2rem"><br><br></p>
+<br>
+<p align=center style="display: flex; justify-content: center; align-items: stretch; gap: 2rem"><br><br></p>
 <br>
 
 ## Frameworks, Libraries, and Languages
